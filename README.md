@@ -1,1 +1,1 @@
-# Shopping
+# coding-project-template
